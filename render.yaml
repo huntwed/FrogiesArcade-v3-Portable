@@ -3,7 +3,7 @@ services:
 - type: web
   name: ilovepie
   runtime: node
-  repo: https://github.com/FrogiesArcade/FrogiesArcade-v3-Portable
+  repo: https://github.com/huntwed/FrogiesArcade-v3-Portable
   plan: free
   region: oregon
   buildCommand: npm i
